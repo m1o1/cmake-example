@@ -1,0 +1,2 @@
+
+int do_something();
